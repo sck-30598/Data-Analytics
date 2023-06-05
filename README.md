@@ -1,5 +1,8 @@
 # Data-Analytics
 
+# ANY DOUBT ON THIS PROJECT. PLEASE FEEL FREE TO REACH OUT ME ON 
+GMAIL :- sck.30598@gmail.com
+LINKEDIN :- https://www.linkedin.com/in/bodagoddu-sharath-chandra-kumar-4156801ab/
 
 
 ### **_PROJECT OF DATA ANALYTICS FOR VRINDA STORE ANNUAL SALES:_** 

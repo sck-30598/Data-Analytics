@@ -22,3 +22,7 @@ index | Order ID | Cust ID | Gender | Age | AgeGroup | Date | Month | Status | C
 
 
 
+The excel can be get from link :
+https://github.com/sck-30598/Data-Analytics/blob/main/Vrinda%20Store%20Data%20Analysis%20-%20Project%20Report.xlsx
+
+
